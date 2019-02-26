@@ -8,5 +8,5 @@ The intermediate python course is crucial to your data science curriculum. Learn
 #### Matplotlib
 Matplotlib and its dependencies are available as wheel packages for macOS, Windows and Linux distributions:
 
-python -m pip install -U pip
+python -m pip install -U pip<br/>
 python -m pip install -U matplotlib
