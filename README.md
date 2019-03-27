@@ -5,8 +5,14 @@ The intermediate python course is crucial to your data science curriculum. Learn
 
 ### Installing an official release
 
-#### Matplotlib
-Matplotlib and its dependencies are available as wheel packages for macOS, Windows and Linux distributions:
+### Numpy
+NumPy is the fundamental package for scientific computing with Python:<br/>
+~python -m pip install numpy
 
-python -m pip install -U pip<br/>
-python -m pip install -U matplotlib
+#### Matplotlib
+Matplotlib and its dependencies are available as wheel packages for macOS, Windows and Linux distributions:<br/>
+~python -m pip install -U matplotlib
+
+### Pandas
+Pandas providing high-performance, easy-to-use data structures and data analysis tools:<br/>
+~python -m pip install pandas
